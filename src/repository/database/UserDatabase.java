@@ -18,6 +18,7 @@ public class UserDatabase implements Repository<Long, Utilizator> {
     @Override
     public Utilizator save(Utilizator entity) {
         return null;
+        //to do
     }
 
     @Override
