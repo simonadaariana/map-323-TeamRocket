@@ -7,6 +7,7 @@ public class UserDatabase implements Repository<Long, Utilizator> {
     @Override
     public Utilizator findOne(Long aLong) {
         return null;
+        //to do
     }
 
     @Override
